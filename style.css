@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    padding: 15px;
+}
+.imc{
+    padding: 15px;
+}
+button{
+    width: 100px;
+    border-radius: 20px;
+    margin: 15px;
+}
